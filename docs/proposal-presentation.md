@@ -1,6 +1,6 @@
 # Proposal Presentation
 
-[Proposal workspace in Notion](https://app.notion.com/p/Proposal-3db51fd1aa49800bb589daab142cfb20?pvs=21) · [GitHub repository](https://github.com/shohinirheasarkar/ReasoningEffortInDynamicEnvironments)
+ [GitHub repository](https://github.com/shohinirheasarkar/ReasoningEffortInDynamicEnvironments)
 
 Use this page to plan and link the proposal presentation. The checklist reflects the required content; unchecked items are not yet documented here.
 
