@@ -2,10 +2,6 @@
 
 > **Freshness-aware test-time compute for LLM agents operating in changing environments**
 
-![Status](https://img.shields.io/badge/status-in%20development-f0ad4e)
-![Course](https://img.shields.io/badge/UMD-CMSC%20473-E21833)
-![Research](https://img.shields.io/badge/project-LLM%20agents-6f42c1)
-
 ## Overview
 
 Language-model agents can often improve a decision by spending more time reasoning. In a dynamic environment, however, the world may change while the agent is thinking. A longer reasoning trace may therefore produce a more carefully considered answer based on information that is no longer current.
@@ -82,9 +78,9 @@ Current work is tracked through the repository's **Issues** and **Projects** tab
 
 | Member | Role |
 |---|---|
-| Rhea Sarkar | Project member |
-| Collaborator 1 | Project member |
-| Collaborator 2 | Project member |
+| Pranav Panicker | Project member |
+| Shohini Rhea Sarkar | Project member |
+| Akash Wudali | Project member |
 
 ## Project Status
 
