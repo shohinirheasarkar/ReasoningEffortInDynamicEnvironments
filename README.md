@@ -21,6 +21,7 @@ The repository currently contains this README and the planning pages in `docs/`.
 | `docs/final-presentation.md` | Final-presentation checklist and code-unit/test inventory | Available |
 | `docs/final-report.md` | Final-report working outline | Available |
 | `docs/related-works.md` | Paper summaries and annotation links | Available |
+| `docs/weekly-tracker.md` | 11-week task plan, check-ins, and result log | Available |
 | Code, tests, and notebooks | Add paths and descriptions as they are created | Not yet available |
 
 @Team Members: When adding code, list **each runnable code file** here with its purpose, usage, and unit-test link. Keep notebook entries here too, including prerequisites and the order in which to run them.
