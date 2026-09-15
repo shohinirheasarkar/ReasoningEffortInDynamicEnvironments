@@ -53,6 +53,7 @@ Every new code file must:
 
 ## Progress Trackers
 
+- [Weekly project tracker](docs/weekly-tracker.md): 11-week plan, Monday check-ins, Tuesday/Thursday deliverables, and weekly result log.
 - [GitHub Issues](https://github.com/shohinirheasarkar/ReasoningEffortInDynamicEnvironments/issues): concrete tasks, assignments, discussions, and bugs.
 - [Pull Requests](https://github.com/shohinirheasarkar/ReasoningEffortInDynamicEnvironments/pulls): code changes, review, and linked tests.
 - [GitHub Projects](https://github.com/shohinirheasarkar/ReasoningEffortInDynamicEnvironments/projects): team board
